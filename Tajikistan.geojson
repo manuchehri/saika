@@ -5209,10 +5209,7 @@
             },
             "type": "Feature"
         },
-{
-    "type": "FeatureCollection",
-    "features": [
-        {
+		{
             "type": "Feature",
             "properties": {
                 "CC_2": "NA",
@@ -5393,7 +5390,7 @@
                 "GID_2": "TJK.1.1_3",
                 "HASC_2": "TJ.RR.LE",
                 "NAME_1": "ш.Душанбе",
-                "NAME_2": "Исмоили Сомони",
+                "NAME_2": "И. Сомони",
                 "NL_NAME_1": "ш.Душанбе",
                 "NL_NAME_2": "NA",
                 "TYPE_2": "Nohiya",
@@ -5552,8 +5549,8 @@
                 ]
             }
         }
-    ]
-},
+    
+,
         {
             "geometry": {
                 "coordinates": [
